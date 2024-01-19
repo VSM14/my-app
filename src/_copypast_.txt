@@ -1,0 +1,5 @@
+cd my-app
+
+npm start
+
+npm run mytest
